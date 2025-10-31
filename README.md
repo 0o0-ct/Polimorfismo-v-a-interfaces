@@ -9,28 +9,28 @@ Sistema de gestión para una cooperativa agro-tecnológica que opera fincas con 
 
 ```
 Polimorfismo-v-a-interfaces/
-├── src/                          # Código fuente Java
-│   ├── Medible.java             # Interfaz para dispositivos que miden
-│   ├── Accionable.java          # Interfaz para dispositivos que actúan
-│   ├── Registrable.java         # Interfaz para dispositivos que registran
-│   ├── Dispositivo.java         # Clase abstracta base (implementa Comparable)
-│   ├── Sensor.java              # Clase abstracta para sensores
-│   ├── SensorSuelo.java         # Sensor de propiedades del suelo
-│   ├── SensorHumedad.java       # Sensor de humedad ambiental
-│   ├── SensorTemperatura.java   # Sensor de temperatura
-│   ├── Dron.java                # Clase abstracta para drones
-│   ├── DroneRiego.java          # Dron para riego de cultivos
-│   ├── DroneMonitoreo.java      # Dron para monitoreo visual
-│   ├── DroneMultiespectral.java # Dron con análisis multiespectral
-│   ├── EstacionMeteorologica.java # Estación meteorológica completa
-│   ├── ValvulaRiego.java        # Válvula de control de riego
-│   ├── SistemaRiego.java        # Sistema automatizado de riego
-│   ├── CamaraMultiespectral.java # Cámara fija multiespectral
-│   ├── Catalogo.java            # Modelo (MVC) - Gestión de dispositivos
-│   ├── Vista.java               # Vista (MVC) - Interfaz de usuario
-│   ├── Controlador.java         # Controlador (MVC) - Lógica de negocio
-│   └── Principal.java           # Driver program
-└── 
+── src/                          # Código fuente Java
+   ├── Medible.java             # Interfaz para dispositivos que miden
+   ├── Accionable.java          # Interfaz para dispositivos que actúan
+   ├── Registrable.java         # Interfaz para dispositivos que registran
+   ├── Dispositivo.java         # Clase abstracta base (implementa Comparable)
+   ├── Sensor.java              # Clase abstracta para sensores
+   ├── SensorSuelo.java         # Sensor de propiedades del suelo
+   ├── SensorHumedad.java       # Sensor de humedad ambiental
+   ├── SensorTemperatura.java   # Sensor de temperatura
+   ├── Dron.java                # Clase abstracta para drones
+   ├── DroneRiego.java          # Dron para riego de cultivos
+   ├── DroneMonitoreo.java      # Dron para monitoreo visual
+   ├── DroneMultiespectral.java # Dron con análisis multiespectral
+   ├── EstacionMeteorologica.java # Estación meteorológica completa
+   ├── ValvulaRiego.java        # Válvula de control de riego
+   ├── SistemaRiego.java        # Sistema automatizado de riego
+   ├── CamaraMultiespectral.java # Cámara fija multiespectral
+   ├── Catalogo.java            # Modelo (MVC) - Gestión de dispositivos
+   ├── Vista.java               # Vista (MVC) - Interfaz de usuario
+   ├── Controlador.java         # Controlador (MVC) - Lógica de negocio
+   └── Principal.java           # Driver program
+
 
 ```
 
