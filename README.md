@@ -99,28 +99,7 @@ java Principal
 ```
 
 ### Visualizar el Diagrama UML
-
-El diagrama UML está en formato PlantUML. Para visualizarlo:
-
-#### Opción 1: PlantUML Online
-1. Abrir https://www.plantuml.com/plantuml/uml/
-2. Copiar el contenido de `docs/diagrama_uml.puml`
-3. Pegar en el editor online
-4. El diagrama se generará automáticamente
-
-#### Opción 2: Extensión de VS Code
-1. Instalar la extensión "PlantUML" en VS Code
-2. Abrir el archivo `docs/diagrama_uml.puml`
-3. Presionar `Alt+D` para ver preview
-
-#### Opción 3: Línea de comandos
-```bash
-# Instalar PlantUML
-sudo apt-get install plantuml
-
-# Generar imagen
-plantuml docs/diagrama_uml.puml
-```
+-----
 
 ### Dispositivos Incluidos en el Catálogo Inicial
 
