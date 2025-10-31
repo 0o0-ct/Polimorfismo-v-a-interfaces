@@ -178,7 +178,7 @@ for (Dispositivo d : dispositivos) {
 
 ### Autor
 
-**[Tu Nombre]**  
+** Clever Juarez --- 251435 **  
 CC2008 - Programación Orientada a Objetos  
 Ejercicio 6 - Interfaces  
 Semestre II, 2025
