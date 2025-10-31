@@ -30,9 +30,7 @@ Polimorfismo-v-a-interfaces/
 │   ├── Vista.java               # Vista (MVC) - Interfaz de usuario
 │   ├── Controlador.java         # Controlador (MVC) - Lógica de negocio
 │   └── Principal.java           # Driver program
-└── docs/                         # Documentación
-    ├── diagrama_uml.puml        # Diagrama UML en PlantUML
-    └── Analisis_Ejercicio6.docx # Análisis completo del sistema
+└── 
 
 ```
 
